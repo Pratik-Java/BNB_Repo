@@ -1,6 +1,13 @@
 class A {
 
-Hi
+
+
+
+  int a = 10;
+
+   Hi
+  
+
 
 
 
