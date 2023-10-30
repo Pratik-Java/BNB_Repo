@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 class A {
 
   #tast = 102 -------#
